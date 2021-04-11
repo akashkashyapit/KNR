@@ -33,7 +33,7 @@
 }
 @media (min-width: 992px) {
 	.header-1 .logo a {
-		padding: 20px 33px 0 0;
+		padding: 0px 33px 0 0;
 	}
 }
 .stricky{
@@ -455,14 +455,14 @@
 	margin-left: -375px;
 	height: 100%;
 	width: 70px;
-	background:#222;
+	background:#049B44;
 	transform: skewX(24deg);
 }
 .header_bg .reletiv_box:before {
 	content: '';
 	width: 50%;
 	height: 100%;
-	background:#222;
+	background:#AC6034;
 	position: absolute;
 	top: 0;
 	left: -338px;

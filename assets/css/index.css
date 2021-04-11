@@ -58,6 +58,10 @@ ul {
 	color: #ffce30;
 	font-size: 40px;
 }
+.banner-text {
+	background: rgba(1, 6, 70, 0.493);
+	padding: 5px;
+}
 
 .main-banner .banner-text p {
 	font-family: 'Poppins', sans-serif;
@@ -203,7 +207,7 @@ ul {
 /* Counter_Section */
 
 .counter_sec {
-	background: url(../images/bg_87.jpg) no-repeat 0 0;
+	background: url(../images/overview.JPG) no-repeat 0 0;
 	background-size: cover;
 	position: relative;
 	min-height: 410px;
