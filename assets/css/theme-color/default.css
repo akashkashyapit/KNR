@@ -24,22 +24,22 @@ figure.effect-zoe figcaption, .top_post .post_detail, .newsletter-form .input-gr
 .team_follow ul li a, .section-title_home h2::after, .post_date, .post_title h3:before, .none_show, .main_nav ul ul li,
 .footer_logo ul li a:hover, .bg_theam, .navigation .sub-nav li a:before, .counter_box .single-fact .counter:before,
 .one_linebar, .link-zoom a.same_style {
-  background: #313d85;
+  background:#E41C24;
 }
 
 @media (max-width: 767px) {
   #header.header-1 {
-    background: #313d85;
+    background:#E41C24;
   }
 }
 figure.effect-zoe p.description, .footer_social ul li a:hover, .team_social, .testimonial .item {
-  background: #313d85;
+  background:#E41C24;
   /* The Fallback */
   background: rgba(49, 61, 133, 0.8);
 }
 
 .bullet_round:before, .second_righ:before {
-  box-shadow: 0 0 6px 6px #313d85;
+  box-shadow: 0 0 6px 6px#E41C24;
 }
 
 .skinoneplancolor {
@@ -63,7 +63,7 @@ a:focus, a:hover, .gallery-heading h4 a:hover, .post-meta span > a > i,
 .blog .post-content a.blog_tital:hover, .blog .post-content a.read_more:hover, .withe_btn:hover .icon_effect,
 .counter_box .single-fact .counter, .next_btn_style .owl-controls .owl-nav .owl-prev:hover, .next_btn_style .owl-controls .owl-nav .owl-next:hover,
 .request_qoutebtn a.btn-text:hover, .gallery-heading h4 a {
-  color: #313d85;
+  color:#E41C24;
 }
 
 /*
@@ -82,7 +82,7 @@ a:focus, a:hover, .gallery-heading h4 a:hover, .post-meta span > a > i,
 .pricing-wrap, a.btn.xplus-btn.pricing.active:hover, .sevice-box:hover .service-text, .team_row:hover, .post_date:before,
 .arrow_theme .owl-prev:hover, .arrow_theme .owl-next:hover, .icon_left_home, .ather_img.active img, .footer_logo ul li a:hover,
 .next_btn_style .owl-controls .owl-nav .owl-prev:hover, .next_btn_style .owl-controls .owl-nav .owl-next:hover {
-  border-color: #313d85;
+  border-color:#E41C24;
 }
 
 .post_date:before {
@@ -90,5 +90,5 @@ a:focus, a:hover, .gallery-heading h4 a:hover, .post-meta span > a > i,
 }
 
 .team-member .inner-box .overlay-box:after, .ui-input-group > input:focus, .rightGrip:before, .leftGrip:before {
-  border-bottom-color: #313d85;
+  border-bottom-color:#E41C24;
 }

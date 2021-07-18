@@ -464,7 +464,7 @@ $(document).on('ready',function() {
 				nav : navigation,
 				dots : pagination,
 				autoplay : autoplay,
-				autoplayTimeout : 2000,
+				autoplayTimeout : 9000,
 				autoplayHoverPause : autoplayHoverPause,
 				responsive : {
 					0 : {
@@ -577,7 +577,7 @@ if (matchHeigh.length) {
  -------------------------------------------------*/
 var mapWrap = $('#map');
 if (mapWrap.length) {
-	var myCenter = new google.maps.LatLng(51.538308, -0.3817765);
+	var myCenter = new google.maps.LatLng(13.02722671559624, 80.16882884001171);
 	function initialize() {
 		var mapProp = {
 			center : myCenter,

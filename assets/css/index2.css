@@ -26,7 +26,7 @@
 	bottom: 0px;
 	padding: 100px;
 	width: 50%;
-	background:#313d85;
+	background:#E41C24;
 	color: #fff;
 }
 .banner_content .btn-text {
@@ -99,7 +99,7 @@
 	left: 0px;
 	bottom: 0px;
 	width: 70px;
-	border-bottom: 5px solid #313d85;
+	border-bottom: 5px solid #E41C24;
 }
 .center_bdr h2:before, .center_bdr h2:after{
 left: 50%;
@@ -138,7 +138,7 @@ transform: translateX(-50%);
 /* About Company */
 .bg_btn {
     background: #fff !important;
-    color: #313d85;
+    color: #E41C24;
 }
 
 /***========Services Section===================== ***/
@@ -200,7 +200,7 @@ transform: translateX(-50%);
 	font-size: 35px;
 	z-index: 1;
 	text-align: center;
-	background-color:#313d85;
+	background-color:#E41C24;
 	margin: 0px;
 	border-radius: 0px;
 	transform: inherit;
@@ -228,7 +228,7 @@ transform: translateX(-50%);
 }
 
 .services-block .inner-box .image .overlay-box .read-more:hover {
-	color:#313d85;
+	color:#E41C24;
 }
 
 .services-block .inner-box .lower-box {
@@ -256,7 +256,7 @@ transform: translateX(-50%);
 }
 
 .services-block .inner-box .lower-box a:hover {
-	color:#313d85;
+	color:#E41C24;
 }
 
 /*Porject*/
@@ -328,7 +328,7 @@ transform: translateX(-50%);
 	line-height: 1.82;
 }
 .project_ditail .btn-text:hover{
-	color: #313d85;
+	color: #E41C24;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
 	.services-block .inner-box .image .overlay-box{
@@ -433,7 +433,7 @@ transform: translateX(-50%);
 	color: #fff;
 }
 .bg_black {
-	background:#313d85;
+	background:#E41C24;
 }
 .margin_top {
 	margin-top: -140px;
@@ -640,7 +640,7 @@ figure.effect-zoe p.description {
 }
 .grid figure.effect-zoe {
 	margin: 0px;
-	border:2px solid #313d85;
+	border:2px solid #E41C24;
 	padding: 20px;
 }
 @media (min-width: 992px) and (max-width: 1199px) {

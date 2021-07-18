@@ -581,7 +581,7 @@ $(document).on('ready',function(){
 				nav : navigation,
 				dots : pagination,
 				autoplay : autoplay,
-				autoplayTimeout : 2000,
+				autoplayTimeout : 6000,
 				autoplayHoverPause : autoplayHoverPause,
 				responsive : {
 					0 : {

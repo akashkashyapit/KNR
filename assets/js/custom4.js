@@ -355,13 +355,13 @@ $(document).on('ready',function(){
 				items : 1
 			},
 			767 : {
-				items : 2
+				items : 1
 			},
 			992 : {
-				items :2
+				items :1
 			},
 			1200 : {
-				items : 2
+				items : 1
 			}
 		},
 		navText : ["<i class='ion-ios-arrow-back'></i>", "<i class='ion-ios-arrow-forward'></i>"]
@@ -581,7 +581,7 @@ $(document).on('ready',function(){
 				nav : navigation,
 				dots : pagination,
 				autoplay : autoplay,
-				autoplayTimeout : 2000,
+				autoplayTimeout : 6000,
 				autoplayHoverPause : autoplayHoverPause,
 				responsive : {
 					0 : {

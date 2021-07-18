@@ -1202,8 +1202,108 @@ form label.error {
 figure {
 	margin: 0px;
 }
+
+.bg-img-news2{
+	background: url(../images/news2.jpg) 0 36% no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.bg-img-leadership{
+	background: url(../images/leadership.jpg) 0 36% no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.bg-img-service-power{
+	background: url(../images/service/Power\ System\ Study\ Main\ Banner\ .jpg) 0 36% no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.bg-img-faq{
+	background: url(../images/service/faq.png) 0 36% no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.bg-img-gas-insulated{
+	background: url(../images/service/GIS.jpg) 0 36% no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.bg-img-service-owner{
+	background: url(../images/service/owner.png) 0 36% no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.bg-img-service-wind{
+	background: url(../images/service/Wind\ and\ Solar\ Services\ 1.png) 0 36% no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.bg-img-career {
+	background: url(../images/carrer-bg.jpeg) 0 36% no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.bg-img-project {
+	background: url(../images/project-banner.jpg) 0 36% no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.bg-img-contact {
+	background: url(../images/header-Contact-us.jpg) 0 36% no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
 .bg-img {
 	background: url(../images/bg_1.jpg) 0 36% no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.bg-img-about {
+	background: url(../images/about/about_us_banner.jpg) 0 36% no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.bg-img-blog {
+	background: url(../images/about/about_us_banner.jpg) 0 36% no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.bg-img-service1 {
+	background: url(../images/service/service1/Who-Needs-Owners-Engineer-1.jpg) 0 36% no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.bg-img-service2 {
+	background: url(../images/service/service2/thumbnail_PPP-9_1.jpg) 0 36% no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.bg-img-service3 {
+	background: url(../images/service/service3/thumbnail_PPP-9_1.jpg) 0 36% no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.bg-img-service-inusilation{
+	background: url(../images/service/InsulationStudyMainBanner.JPG) 0 36% no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.bg-img-privacy{
+	background: url(../images/privacy-policy-md.jpg) 0 36% no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.bg-img-covid{
+	background: url(../images/Coronavirus-in-India.jpg) 0 36% no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.bg-img-accessibility{
+	background: url(../images/accesbility.jpg) 0 36% no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 }
@@ -1235,7 +1335,7 @@ figure {
 		transform: rotate(0);
 		-webkit-transform: rotate(0);
 		transform-origin: 100% 0;
-		-webkit- transform-origin: 100% 0;
+		-webkit-transform-origin: 100% 0;
 		opacity: 0.9;
 	}
 }
@@ -4155,7 +4255,7 @@ transform: scale(1);
 }
 .gallery-heading h4 a {
 	width: auto;
-	color:#313d85;
+	color: white;
 	height: auto;
 	line-height: normal;
 	transition: all 0.3s;
@@ -4190,6 +4290,19 @@ transform: scale(1);
 	opacity: 0;
 	width: 100%;
 }
+.link-zoom2 {
+	text-align: center;
+	transition: all 0.2s linear 0s;
+	-webkit-transition: all 0.2s linear 0s;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	z-index: 1;
+	transform: translate(-50%,-50%);
+	-webkit-transform: translate(-50%,-50%);
+	opacity: 1;
+	width: 100%;
+}
 .item-box:hover .link-zoom {
 	top: 50%;
 	opacity: 1;
@@ -4201,7 +4314,7 @@ transform: scale(1);
 	height: 40px;
 	line-height: 40px;
 	text-align: center;
-	background:#313d85;
+	background:#E41C24;
 	font-size: 17px;
 	color: #fff;
 	    margin: 10px;
@@ -4249,7 +4362,10 @@ transform: scale(1);
 	border: 2px solid #ccc;
 }
 .item-box:hover:before {
-	background: rgba(255, 255, 255, 0.84);
+	background: rgba(37, 37, 37, 0.438);
+}
+.item-box:before {
+	background: rgba(37, 37, 37, 0.467);
 }
 .item-container {
 	transform: scale(1);
@@ -8897,3 +9013,5 @@ a.btn.xplus-btn.pricing.active:hover {
 .project-detail-block {
 	padding: 30px;
 }
+
+.upper-case{ text-transform: uppercase; }

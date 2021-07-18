@@ -1,9 +1,9 @@
 /* footer */
 .footer{
-	      background-color: #273272;
+	      background-color: #E41C24;
 	      background-repeat: no-repeat;
-	      background-position: 278px 55%;
-	      background-image: url(../images/bg_footer.png);
+	      /* background-position: 278px 55%; */
+	      background-image: url(../images/footer-1n.jpg);
 	      background-size: cover;
 }
 .footer_logo p{
@@ -119,8 +119,8 @@
 	border-radius: 0 30px 30px 0;
 }
 .footer .bottom-footer {
-    margin-top: 60px;
-        background: #313d85;
+    /* margin-top: 60px; */
+        background: #E41C24;
 }
 .footer .bottom-footer .bor_top {
     padding: 10px 0;
@@ -193,4 +193,8 @@
 .footer_logo{
 	margin-bottom:20px
 }	
+}
+
+.backfad{
+   background-color: #06070765;
 }

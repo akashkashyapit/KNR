@@ -58,9 +58,9 @@ ul {
 	color: #ffce30;
 	font-size: 40px;
 }
-.banner-text {
+.banner-back {
 	background: rgba(1, 6, 70, 0.493);
-	padding: 5px;
+	
 }
 
 .main-banner .banner-text p {
@@ -127,14 +127,14 @@ ul {
 	width: 100%;
 	height: 100%;
 	z-index: 999;
-	/* 	background-color: rgba(0,0,0,0.69); */
+		background-color: rgba(0,0,0,0.69);
 	content: '';
 }
 
 /* Section */
 
 .one_linebar {
-	background: #313d85;
+	background: #E41C24;
 	padding: 40px 0px;
 }
 
@@ -168,9 +168,9 @@ ul {
 	position: absolute;
 	top: 0px;
 	right: 0px;
-	background: url(../images/about_img2.jpg) no-repeat 0 0;
+	background: url(../images/about_img2.JPG) no-repeat 0 0;
 	background-size: cover;
-	height: 600px;
+	height: 730px;
 }
 
 .about_sec .section-title_home h2 {
@@ -207,7 +207,7 @@ ul {
 /* Counter_Section */
 
 .counter_sec {
-	background: url(../images/overview.JPG) no-repeat 0 0;
+	background: url(../images/Overview.png) no-repeat 0 0;
 	background-size: cover;
 	position: relative;
 	min-height: 410px;
@@ -298,10 +298,12 @@ ul {
 }
 
 .service_box figure img {
-	height: 60px;
-	width: 60px !important;
+	height: 80px;
+	width: 60px ;
 	margin: 0 auto;
 }
+
+
 
 .service_slider_home .owl-item.center .service_box {
 	box-shadow: 0px 7px 20px 1px #c1c1c1;
@@ -345,9 +347,24 @@ ul {
 /* BG_Section */
 
 .bg_effcat {
-	background: url(../images/bg_88.jpg) no-repeat 0 0;
+	background: url(../images/iso.png) no-repeat 0 0;
 	background-size: cover;
 }
+.service1{
+	background: url(../images/service/service1.png) no-repeat 0 0;
+	
+}
+.service2{
+	background: url(../images/service/service2.jpg) no-repeat 0 0;
+	
+}
+.service3{
+	background: url(../images/service/service3.jpg) no-repeat 0 0;
+	
+}
+
+
+
 
 .value_text h2 {
 	font-size: 45px;
@@ -521,6 +538,19 @@ ul {
 	background-size: cover;
 }
 
+.img_valueaddwd {
+	background: url(../images/service/valueadded.jpg) 80% 0 no-repeat;
+	background-size: cover;
+}
+.img_valueaddwd2 {
+	background: url(../images/service/2.jpg) 80% 0 no-repeat;
+	background-size: cover;
+}
+.img_valueaddwd3 {
+	background: url(../images/service/3.jpg) 80% 0 no-repeat;
+	background-size: cover;
+}
+
 .bg_gradient::after {
 	content: '';
 	position: absolute;
@@ -555,4 +585,11 @@ ul {
 @media (max-width: 767px){
 .section_box h2{
     font-size: 33px;
+}
+
+
+.wordcolor{
+	color: red;
+	font-size: large;
+	font-weight: 700;
 }
