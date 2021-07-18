@@ -5,7 +5,11 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>INSULATION COORDINATION STUDY</title>
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo.png" alt="KNR Engineering Consulting Services">
+
+    <title>Best Substation Engineering Services in india - KNR Engineers (India) Pvt Ltd.</title>
+    <meta name="description" content="KNR Engineers conducts studies to achieve cost-effective station equipment insulation requirements.  Insulation coordination is the process of selecting the most cost-effective equipment dielectric strength and its application to avoid equipment insulation damage or affect continuity of service. " />
+    <meta name="keywords" content="Insulation coordination system study for AIS & GIS, Indian and overseas clients,Using EMTP package EMTP-RV from Powersys, insulation co-ordination study for lightning, switching over voltage performance.">
     <!-- START HEADER -->
     <?php
     include_once('header.php');

@@ -5,7 +5,11 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>KNR Contact Us</title>
+  <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo.png" alt="KNR Engineering Consulting Services">
+
+  <title>Contact Us Today - KNR Engineers (India) Pvt Ltd.</title>
+  <meta name="description" content="KNR Engineers is a best-in-class integrated engineering consultancy solutions provider." />
+  <meta name="keywords" content="To assist you better, contact Us by filling out your information in the form.">
   <!-- HEADER -->
   <?php
   include_once('header.php');
@@ -56,7 +60,7 @@
       </div>
     </div>
     <!-- Map Section -->
-    <div >
+    <div>
       <div id="map1" style="height:100vh; width:100%;"></div>
     </div>
     <!-- Map Section -->

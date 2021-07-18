@@ -5,7 +5,11 @@
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<title>POWER SYSTEM STUDY</title>
+	<link rel="shortcut icon" type="image/x-icon" href="assets/images/logo.png" alt="KNR Engineering Consulting Services">
+
+    <title>Best Substation Engineering Services in india - KNR Engineers (India) Pvt Ltd.</title>
+	<meta name="description" content="Electric power system study is a group of studies consists of various technical analysis. Power system studies analysis consultant in india. " />
+	<meta name="keywords" content="power system study in-bangalore, power system studies in-India - power system study servicein-Chennai, electrical power system studies services in delhi, KNR power system study consulting service in Karnataka, Description of power system studies consulting services in india. ">
 	<!-- START HEADER -->
 	<?php
 	include_once('header.php');

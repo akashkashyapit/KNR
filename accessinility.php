@@ -5,28 +5,31 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>KNR
-	</title>
+	<link rel="shortcut icon" type="image/x-icon" href="assets/images/logo.png" alt="KNR Engineering Consulting Services">
+
+	<title>Our Accessibility - KNR Engineers (India) Pvt Ltd.</title>
+	<meta name="description" content="Our clients and customers privacy is our responsibility we take care of secure online policies for our users." />
+	<meta name="keywords" content="Engineering Consultants, Engineering consultancy services ">
 	<!-- HEADER -->
 	<?php
 	include_once('header.php');
 	?>
 	<!-- END HEADER -->
 
-	   <!-- Intro Section -->
-	   <section class="inner-intro bg-img-accessibility light-color overlay-before parallax-background">
-        <div class="container">
-            <div class="row title">
-                <div class="title_row">
-                    <h1 data-title="Leadership"><span>Accessibility</span></h1>
-                    <div class="page-breadcrumb">
-                        <a>Home</a>/ <span>Accessibility</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Intro Section End-->
+	<!-- Intro Section -->
+	<section class="inner-intro bg-img-accessibility light-color overlay-before parallax-background">
+		<div class="container">
+			<div class="row title">
+				<div class="title_row">
+					<h1 data-title="Leadership"><span>Accessibility</span></h1>
+					<div class="page-breadcrumb">
+						<a>Home</a>/ <span>Accessibility</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Intro Section End-->
 
 	<section>
 

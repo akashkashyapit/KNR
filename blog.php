@@ -5,7 +5,11 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>KNR Blog</title>
+  <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo.png" alt="KNR Engineering Consulting Services">
+
+  <title>Our blogs and E-books Engineering and Consultaning - KNR Engineers (India) Pvt Ltd.</title>
+  <meta name="description" content="Download our free ebook today and learn how Engineering and consultanting specific tools can help you increase site visibility, connect your teams and deliver successful projects sooner!" />
+  <meta name="keywords" content="Content, Ebooks, Study Materials">
   <!-- HEADER -->
   <?php
   include_once('header.php');
@@ -161,46 +165,46 @@
           <!-- CATEGORY BLOG END -->
           <!-- RECENT BLOG START -->
           <div class="sidebar-widget">
-  <h4>Recent Post</h4>
+            <h4>Recent Post</h4>
 
-  <ul class="widget-post pt-15">
-    <li>
-      <a class="widget-post-media">
-        <img src="assets/images/blog/Blog 01 Homepage.png" alt="" />
-      </a>
-      <div class="widget-post-info">
-        <h6>
-          <a>Why Insulation Coordination Study is required? </a>
-        </h6>
-        <div class="post-meta">
-          <span>june 02</span>
-        </div>
-      </div>
-    </li>
-    <li>
-      <a class="widget-post-media">
-        <img src="assets/images/blog/Blog 02 Homepage.png" alt="" />
-      </a>
-      <div class="widget-post-info">
-        <h6><a>Insulation Coordination in High Voltage</a></h6>
-        <div class="post-meta">
-          <span>june 08</span>
-        </div>
-      </div>
-    </li>
-    <li>
-      <a class="widget-post-media">
-        <img src="assets/images/blog/Home Page blog 3.png" alt="" />
-      </a>
-      <div class="widget-post-info">
-        <h6><a>Power Lines Safety Rules and Precautions</a></h6>
-        <div class="post-meta">
-          <span>may 02</span>
-        </div>
-      </div>
-    </li>
-  </ul>
-</div>
+            <ul class="widget-post pt-15">
+              <li>
+                <a class="widget-post-media">
+                  <img src="assets/images/blog/Blog 01 Homepage.png" alt="" />
+                </a>
+                <div class="widget-post-info">
+                  <h6>
+                    <a>Why Insulation Coordination Study is required? </a>
+                  </h6>
+                  <div class="post-meta">
+                    <span>june 02</span>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <a class="widget-post-media">
+                  <img src="assets/images/blog/Blog 02 Homepage.png" alt="" />
+                </a>
+                <div class="widget-post-info">
+                  <h6><a>Insulation Coordination in High Voltage</a></h6>
+                  <div class="post-meta">
+                    <span>june 08</span>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <a class="widget-post-media">
+                  <img src="assets/images/blog/Home Page blog 3.png" alt="" />
+                </a>
+                <div class="widget-post-info">
+                  <h6><a>Power Lines Safety Rules and Precautions</a></h6>
+                  <div class="post-meta">
+                    <span>may 02</span>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
           <!-- RECENT BLOG END -->
           <!-- TAGS BLOG START -->
           <?php

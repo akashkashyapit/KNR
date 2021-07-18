@@ -5,7 +5,13 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>SUBSTATION ENGINEERING</title>
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo.png" alt="KNR Engineering Consulting Services">
+
+    <title>Best Substation Engineering Services in india - KNR Engineers (India) Pvt Ltd.</title>
+    <meta name="description" content="Substation Engineering comprehensive solutions for power and substation design projects." />
+    <meta name="keywords" content="conceptual design and
+evaluation, detailed substation design, request for proposal
+(RFP) engineering, and support of construction activities. ">
     <!-- START HEADER -->
     <?php
     include_once('header.php');

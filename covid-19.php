@@ -5,8 +5,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>KNR
-    </title>
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo.png" alt="KNR Engineering Consulting Services">
+
+    <title>COVID-19 Safety - KNR Engineers (India) Pvt Ltd.</title>
+    <meta name="description" content="To assist you better, KNR Engineers take the outmost care of our employees and clients health in this COVID-19 Pandemic" />
+    <meta name="keywords" content="Engineering Consultants, Engineering consultancy services ">
     <!-- HEADER -->
     <?php
     include_once('header.php');

@@ -5,7 +5,14 @@
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<title>Service</title>
+	<link rel="shortcut icon" type="image/x-icon" href="assets/images/logo.png" alt="KNR Engineering Consulting Services">
+
+	<title>Best Substation Engineering Services in india - KNR Engineers (India) Pvt Ltd.</title>
+	<meta name="description" content="KNR Engineers is a leader in renewable energy solutions in areas of Wind Energy & Solar energy sector and is a leading wind turbine and windmill supplier." />
+	<meta name="keywords" content="KNR Engineers Wind Energy
+Solutions, KNR Engineers End-To-End
+Solutions, Global
+Expertise in Renewable Energy, Wind & Solar Engergy in india. ">
 	<!-- START HEADER -->
 	<?php
 	include_once('header.php');
@@ -33,7 +40,7 @@
 			<div class="row">
 				<div class="col-lg-4 col-sx-12">
 					<div class="single-sidebar-widget">
-					<div class="special-links">
+						<div class="special-links">
 							<ul>
 								<li>
 									<a class="active" href="./owners-engineering.php">OWNER’S ENGINEERING </a>

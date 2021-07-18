@@ -5,7 +5,11 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>TRANSMISSION LINE</title>
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo.png" alt="KNR Engineering Consulting Services">
+
+    <title>Best Substation Engineering Services in india - KNR Engineers (India) Pvt Ltd.</title>
+    <meta name="description" content=". KNR's experienced specialists help energy clients deliver uninterrupted power with start-to-finish support for transmission line engineering initiatives including transmission line design, upgrades, uprating, corridor routing, retrofits, reconductoring, and more. " />
+    <meta name="keywords" content="We help clients meet their goals with an innovative, multidisciplined team of civil, structural, and electrical engineers and technicians that has been recognized for transmission line &hellip; Continue reading Transmission Line Engineering.">
     <!-- START HEADER -->
     <?php
     include_once('header.php');

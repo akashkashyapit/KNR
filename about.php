@@ -5,7 +5,10 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>KNR about</title>
+  <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo.png" alt="KNR Engineering Consulting Services">
+  <title>Best Engineering Consulting Services - KNR Engineers (India) Pvt Ltd.</title>
+  <meta name="description" content="KNR Is leading engineering and consultancy service providers in India, having expertise in providing solutions up to 765Kv Air Insulated and Gas Insulated substations, Transmission lines, Wind & Solar power evacuation projects.">
+  <meta name="keywords" content="KNR Consulting Engineers, EHV Transmission Consultants, Detailed Design, Engineering Services">
   <!-- HEADER -->
   <?php
   include_once('header.php');
@@ -262,9 +265,9 @@
                 <div class="hover_cont">
                   <!-- <h3>Lorem Ipsum</h3> -->
                   <p>
-                  Full-fledged designs/studies with Specialized globally known Software tools and dedicated library that comprises Standards, books and journals in T&D domain.
+                    Full-fledged designs/studies with Specialized globally known Software tools and dedicated library that comprises Standards, books and journals in T&D domain.
 
-First Insulation Coordination Study carried out using EMTP/Microton Software.
+                    First Insulation Coordination Study carried out using EMTP/Microton Software.
                   </p>
                   <span class="conner"></span>
                 </div>
@@ -273,7 +276,7 @@ First Insulation Coordination Study carried out using EMTP/Microton Software.
           </div>
 
 
-       
+
           <div class="col-md-2">
             <div class="bullet_round">
               <div class="first_lef">
@@ -327,7 +330,7 @@ First Insulation Coordination Study carried out using EMTP/Microton Software.
 
         </div>
       </div>
-     
+
     </div>
   </section>
   <!-- history End-->

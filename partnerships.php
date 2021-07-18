@@ -5,7 +5,11 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>KNR Partnerships</title>
+  <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo.png" alt="KNR Engineering Consulting Services">
+  
+  <title>Our Global Partners  -  KNR Engineers (India) Pvt Ltd.</title>
+  <meta name="description" content="KNR Is leading international engineering and consultancy service providers.">
+  <meta name="keywords" content="KNR Consulting Engineers, EHV Transmission Consultants, Detailed Design, Engineering Services">
 <!-- HEADER -->
 <?php
 	include_once('header.php');

@@ -5,7 +5,11 @@
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<title>Service</title>
+	<link rel="shortcut icon" type="image/x-icon" href="assets/images/logo.png" alt="KNR Engineering Consulting Services">
+
+	<title>Best Substation Engineering Services in india - KNR Engineers (India) Pvt Ltd.</title>
+	<meta name="description" content="KNR Engineers provides a full range of GIS solutions from 60 to 800 kV for utilities and industries worldwide." />
+	<meta name="keywords" content="Gas-Insulated Solutions,GIS,GIL,SF6,g3,digital,SF6 alternative, siwtchgear,Lightning protection, Indoor-outdoor lighting, Design of foundation, Architectural drawings . ">
 	<!-- START HEADER -->
 	<?php
 	include_once('header.php');

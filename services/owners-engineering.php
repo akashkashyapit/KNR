@@ -5,7 +5,12 @@
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<title>Service</title>
+	<link rel="shortcut icon" type="image/x-icon" href="assets/images/logo.png" alt="KNR Engineering Consulting Services">
+  
+	<title>Best  Engineering Consulting Services -  KNR Engineers (India) Pvt Ltd.</title>
+	<meta name="description" content="Owners Engineering Ensure quality, timely and cost-effective completion of your projects" />
+	<meta name="keywords" content="epc project management, power plant project management, owner’s engineer, third party engineering, owner’s engineer scope of work, lenders engineers services">
+	
 	<!-- START HEADER -->
 	<?php
 	include_once('header.php');
