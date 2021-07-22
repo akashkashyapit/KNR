@@ -7,9 +7,22 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<link rel="shortcut icon" type="image/x-icon" href="assets/images/logo.png" alt="KNR Engineering Consulting Services">
 
-    <title>Best Substation Engineering Services in india - KNR Engineers (India) Pvt Ltd.</title>
+	<title>Best Substation Engineering Services in india - KNR Engineers (India) Pvt Ltd.</title>
 	<meta name="description" content="Electric power system study is a group of studies consists of various technical analysis. Power system studies analysis consultant in india. " />
 	<meta name="keywords" content="power system study in-bangalore, power system studies in-India - power system study servicein-Chennai, electrical power system studies services in delhi, KNR power system study consulting service in Karnataka, Description of power system studies consulting services in india. ">
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EE6B7Z7KFW"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'G-EE6B7Z7KFW');
+	</script>
 	<!-- START HEADER -->
 	<?php
 	include_once('header.php');
@@ -37,7 +50,7 @@
 			<div class="row">
 				<div class="col-lg-4 col-sx-12">
 					<div class="single-sidebar-widget">
-					<div class="special-links">
+						<div class="special-links">
 							<ul>
 								<li>
 									<a class="active" href="./owners-engineering.php">OWNER’S ENGINEERING </a>

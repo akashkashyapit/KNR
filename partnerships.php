@@ -6,15 +6,28 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo.png" alt="KNR Engineering Consulting Services">
-  
-  <title>Our Global Partners  -  KNR Engineers (India) Pvt Ltd.</title>
+
+  <title>Our Global Partners - KNR Engineers (India) Pvt Ltd.</title>
   <meta name="description" content="KNR Is leading international engineering and consultancy service providers.">
   <meta name="keywords" content="KNR Consulting Engineers, EHV Transmission Consultants, Detailed Design, Engineering Services">
-<!-- HEADER -->
-<?php
-	include_once('header.php');
-	?>
-	<!-- END HEADER -->
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-EE6B7Z7KFW"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-EE6B7Z7KFW');
+  </script>
+  <!-- HEADER -->
+  <?php
+  include_once('header.php');
+  ?>
+  <!-- END HEADER -->
 
   <!-- Intro Section -->
   <section class="
@@ -57,7 +70,7 @@
               <li>
                 <a href="partnerships.html" class="active">Partnerships</a>
               </li>
-              
+
             </ul>
           </div>
           <!-- <div class="company-brochure mt-30">

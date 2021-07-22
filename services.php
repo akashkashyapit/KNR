@@ -1,33 +1,46 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>KNR Services</title>
-			<!-- HEADER -->
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>KNR Services</title>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EE6B7Z7KFW"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'G-EE6B7Z7KFW');
+	</script>
+	<!-- HEADER -->
 	<?php
 	include_once('header.php');
 	?>
 	<!-- END HEADER -->
-		
-  <!-- Intro Section -->
-  <section class="inner-intro bg-img-service2 light-color overlay-before parallax-background">
-			<div class="container">
-				<div class="row title">
-					<div class="title_row">
-						<h1 data-title="Service"><span>Service</span></h1>
-						<div class="page-breadcrumb">
-							<a>Home</a>/ <span>Service</span>
-						</div>
 
+	<!-- Intro Section -->
+	<section class="inner-intro bg-img-service2 light-color overlay-before parallax-background">
+		<div class="container">
+			<div class="row title">
+				<div class="title_row">
+					<h1 data-title="Service"><span>Service</span></h1>
+					<div class="page-breadcrumb">
+						<a>Home</a>/ <span>Service</span>
 					</div>
 
 				</div>
+
 			</div>
-		</section>
-  <!-- Intro Section --> 
-			<!-- Service_Section -->
+		</div>
+	</section>
+	<!-- Intro Section -->
+	<!-- Service_Section -->
 	<section class="padding ptb-xs-40 gray-bg service_sec">
 		<div class="container">
 			<div class="row text-center mb-20 mb-xs-30">
@@ -172,7 +185,7 @@
 
 	</section>
 	<!-- Service_Section_End -->
-			
+
 	<!-- Footer_Section -->
 	<?php
 	include_once('footer.php');
@@ -181,5 +194,5 @@
 	<!-- Footer_Section_End -->
 
 	</body>
-</html>
 
+</html>

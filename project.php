@@ -6,8 +6,19 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="shortcut icon" type="image/x-icon" href="assets/images/logo.png" alt="KNR Engineering Consulting Services">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EE6B7Z7KFW"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
 
-	<title>Our Projects around the world -  KNR Engineers (India) Pvt Ltd.</title>
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'G-EE6B7Z7KFW');
+	</script>
+	<title>Our Projects around the world - KNR Engineers (India) Pvt Ltd.</title>
 	<meta name="description" content="KNR Engineers  Projects that involve both the Engineering and consultanting an alteration of part of the environment are considered part of civil engineering. These projects are quite diverse and can be done anywhere in the world, which is why there are so many disciplines. " />
 	<meta name="keywords" content=" KNR Clinets are from around the world like; ABB, L&T, AREVA, SIEMENS, VESTAS, SUZLON, LANCO, EMCO & VOLTAS. . ">
 	<!-- HEADER -->

@@ -8,6 +8,19 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Best Engineering Consulting Services - KNR Engineers (India) Pvt Ltd.
 	</title>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EE6B7Z7KFW"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'G-EE6B7Z7KFW');
+	</script>
 	<meta name="description" content="Engineers Consulting Group of JEF Techno is a leading International engineering and consulting company. It provides consulting services for EHV substations, Air Insulated and Gas Insulated substations, Transmission lines, Wind & Solar power evacuation projects, Power system studies, Insulation coordination of EHV substation & VFTO.">
 	<meta name="keywords" content="Engineering consultants in India, engineering consultants, EHV substations services, Air Insulated and Gas Insulated substations, Transmission lines, Wind & Solar power evacuation projects, Power system studies, Insulation coordination of EHV substation & VFTO, consultancy services">
 

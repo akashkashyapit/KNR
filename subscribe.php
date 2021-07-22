@@ -4,7 +4,7 @@
 $to = "info@knrengineers.com";
 $from = "info@knrengineers.com"; 
 $subject = "KNR Engineers Subscriber";
-$cc = "akashkashyapit@gmail.com";
+// $cc = "akashkashyapit@gmail.com";
 $url = "index.php";
 // Global configuration end
 $errmasg = "";

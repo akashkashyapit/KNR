@@ -13,6 +13,19 @@
 Solutions, KNR Engineers End-To-End
 Solutions, Global
 Expertise in Renewable Energy, Wind & Solar Engergy in india. ">
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EE6B7Z7KFW"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'G-EE6B7Z7KFW');
+	</script>
 	<!-- START HEADER -->
 	<?php
 	include_once('header.php');

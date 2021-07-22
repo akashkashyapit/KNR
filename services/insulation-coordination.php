@@ -10,6 +10,18 @@
     <title>Best Substation Engineering Services in india - KNR Engineers (India) Pvt Ltd.</title>
     <meta name="description" content="KNR Engineers conducts studies to achieve cost-effective station equipment insulation requirements.  Insulation coordination is the process of selecting the most cost-effective equipment dielectric strength and its application to avoid equipment insulation damage or affect continuity of service. " />
     <meta name="keywords" content="Insulation coordination system study for AIS & GIS, Indian and overseas clients,Using EMTP package EMTP-RV from Powersys, insulation co-ordination study for lightning, switching over voltage performance.">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-EE6B7Z7KFW"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-EE6B7Z7KFW');
+    </script>
     <!-- START HEADER -->
     <?php
     include_once('header.php');
@@ -37,31 +49,31 @@
             <div class="row">
                 <div class="col-lg-4 col-sx-12">
                     <div class="single-sidebar-widget">
-                    <div class="special-links">
-							<ul>
-								<li>
-									<a class="active" href="./owners-engineering.php">OWNER’S ENGINEERING </a>
-								</li>
-								<li>
-									<a href="./substation-engineering.php">SUBSTATION ENGINEERING</a>
-								</li>
-								<li>
-									<a href="./transmission-line.php">TRANSMISSION LINE </a>
-								</li>
-								<li>
-									<a href="./system-studies.php">SYSTEM STUDIES</a>
-								</li>
-								<li>
-									<a href="./insulation-coordination.php">INSULATION CO-ORDINATION STUDY </a>
-								</li>
-								<li>
-									<a href="./solar-and-wind.php">WIND & SOLAR POWER</a>
-								</li>
-								<li>
-									<a href="./gas-insulated.php">GAS INSULATED SUBSTATION </a>
-								</li>
-							</ul>
-						</div>
+                        <div class="special-links">
+                            <ul>
+                                <li>
+                                    <a class="active" href="./owners-engineering.php">OWNER’S ENGINEERING </a>
+                                </li>
+                                <li>
+                                    <a href="./substation-engineering.php">SUBSTATION ENGINEERING</a>
+                                </li>
+                                <li>
+                                    <a href="./transmission-line.php">TRANSMISSION LINE </a>
+                                </li>
+                                <li>
+                                    <a href="./system-studies.php">SYSTEM STUDIES</a>
+                                </li>
+                                <li>
+                                    <a href="./insulation-coordination.php">INSULATION CO-ORDINATION STUDY </a>
+                                </li>
+                                <li>
+                                    <a href="./solar-and-wind.php">WIND & SOLAR POWER</a>
+                                </li>
+                                <li>
+                                    <a href="./gas-insulated.php">GAS INSULATED SUBSTATION </a>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
                     <div class="single-sidebar-widget">
                         <div class="sec-title">
@@ -111,7 +123,7 @@
                                 <h2>Value Addition
                                 </h2>
                                 <div class="text-content mb-10">
-                                <p>Insulation coordination study determines the selection and verification of surge arrester at right place to limit various types of overvoltages in the system within the equipment withstand levels. Maximum overvoltage like Temporary overvoltage, switching overvoltages, lightning overvoltages and Very fast front overvoltages are determined for various operating conditions.</p>
+                                    <p>Insulation coordination study determines the selection and verification of surge arrester at right place to limit various types of overvoltages in the system within the equipment withstand levels. Maximum overvoltage like Temporary overvoltage, switching overvoltages, lightning overvoltages and Very fast front overvoltages are determined for various operating conditions.</p>
                                     <p>
                                         Protection of equipment from transient voltage beyond the capability of their typical insulation ratings through coordinated selection and placement of surge arresters.
                                     </p>

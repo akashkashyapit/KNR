@@ -16,6 +16,19 @@
 <link href="assets/css/footer.css" rel="stylesheet" type="text/css" />
 <link href="assets/css/index.css" rel="stylesheet" type="text/css" />
 <link href="assets/css/theme-color/default.css" rel="stylesheet" type="text/css" id="theme-color" />
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EE6B7Z7KFW"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+	gtag('js', new Date());
+
+	gtag('config', 'G-EE6B7Z7KFW');
+</script>
 </head>
 
 <body>
@@ -99,7 +112,7 @@
 							<nav class="navigation">
 								<ul>
 									<li>
-										<a href="index.php" >Home</a><i class="ion-ios-plus-empty hidden-md-up"></i>
+										<a href="index.php">Home</a><i class="ion-ios-plus-empty hidden-md-up"></i>
 
 									</li>
 									<li>
@@ -111,7 +124,7 @@
 											<li>
 												<a href="career.php">Career</a>
 											</li> -->
-											<!-- <li>
+												<!-- <li>
 												<a href="leadership.php">Leadership</a>
 											</li> -->
 
@@ -148,7 +161,7 @@
 										</ul>
 									</li>
 									<li>
-									<a href="career.php">Career</a><i class="ion-ios-plus-empty hidden-md-up"></i>
+										<a href="career.php">Career</a><i class="ion-ios-plus-empty hidden-md-up"></i>
 
 									</li>
 									<li>

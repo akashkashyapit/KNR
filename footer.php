@@ -123,7 +123,18 @@
 <script src="assets/js/jquery.appear.js" type="text/javascript"></script>
 <!-- Mail Function Js -->
 <script src="assets/js/mail.js" type="text/javascript"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EE6B7Z7KFW"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
 
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+	gtag('js', new Date());
+
+	gtag('config', 'G-EE6B7Z7KFW');
+</script>
 <!-- revolution Js -->
 <script type="text/javascript" src="assets/js/jquery.themepunch.tools.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.themepunch.revolution.min.js"></script>

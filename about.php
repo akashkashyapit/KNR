@@ -9,6 +9,19 @@
   <title>Best Engineering Consulting Services - KNR Engineers (India) Pvt Ltd.</title>
   <meta name="description" content="KNR Is leading engineering and consultancy service providers in India, having expertise in providing solutions up to 765Kv Air Insulated and Gas Insulated substations, Transmission lines, Wind & Solar power evacuation projects.">
   <meta name="keywords" content="KNR Consulting Engineers, EHV Transmission Consultants, Detailed Design, Engineering Services">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-EE6B7Z7KFW"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-EE6B7Z7KFW');
+  </script>
   <!-- HEADER -->
   <?php
   include_once('header.php');

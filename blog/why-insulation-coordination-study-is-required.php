@@ -6,6 +6,18 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Why Insulation Coordination Study is required?</title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-EE6B7Z7KFW"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-EE6B7Z7KFW');
+  </script>
   <!-- START HEADER -->
   <?php
   include_once('header.php');
@@ -328,8 +340,8 @@
               <input type="submit" value="" name="email" id="wid-s-sub" />
             </div>
           </div>
-           <!-- CATEGORY START -->
-           <?php
+          <!-- CATEGORY START -->
+          <?php
           include_once('category.php');
 
           ?>
@@ -340,8 +352,8 @@
 
           ?>
           <!-- RECENT-BLOG END -->
-         <!-- POPULAR-TAGS START -->
-         <?php
+          <!-- POPULAR-TAGS START -->
+          <?php
           include_once('popular-tags.php');
 
           ?>

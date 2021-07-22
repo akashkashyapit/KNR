@@ -7,6 +7,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>KNR FAQ
   </title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-EE6B7Z7KFW"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-EE6B7Z7KFW');
+  </script>
   <!-- HEADER -->
   <?php
   include_once('header.php');
@@ -141,9 +153,9 @@
               <li>decides location of arrester and PIR requirement</li>
               <li>Very Fast Transient Overvoltage – for GIS substations of system voltage > 245kV </li>
             </ul>
-          
+
           </div>
-        
+
         </div>
       </div>
       <!-- Collape Section End Here -->

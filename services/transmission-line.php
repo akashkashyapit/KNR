@@ -10,6 +10,19 @@
     <title>Best Substation Engineering Services in india - KNR Engineers (India) Pvt Ltd.</title>
     <meta name="description" content=". KNR's experienced specialists help energy clients deliver uninterrupted power with start-to-finish support for transmission line engineering initiatives including transmission line design, upgrades, uprating, corridor routing, retrofits, reconductoring, and more. " />
     <meta name="keywords" content="We help clients meet their goals with an innovative, multidisciplined team of civil, structural, and electrical engineers and technicians that has been recognized for transmission line &hellip; Continue reading Transmission Line Engineering.">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-EE6B7Z7KFW"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-EE6B7Z7KFW');
+    </script>
     <!-- START HEADER -->
     <?php
     include_once('header.php');
@@ -37,31 +50,31 @@
             <div class="row">
                 <div class="col-lg-4 col-sx-12">
                     <div class="single-sidebar-widget">
-                    <div class="special-links">
-							<ul>
-								<li>
-									<a class="active" href="./owners-engineering.php">OWNER’S ENGINEERING </a>
-								</li>
-								<li>
-									<a href="./substation-engineering.php">SUBSTATION ENGINEERING</a>
-								</li>
-								<li>
-									<a href="./transmission-line.php">TRANSMISSION LINE </a>
-								</li>
-								<li>
-									<a href="./system-studies.php">SYSTEM STUDIES</a>
-								</li>
-								<li>
-									<a href="./insulation-coordination.php">INSULATION CO-ORDINATION STUDY </a>
-								</li>
-								<li>
-									<a href="./solar-and-wind.php">WIND & SOLAR POWER</a>
-								</li>
-								<li>
-									<a href="./gas-insulated.php">GAS INSULATED SUBSTATION </a>
-								</li>
-							</ul>
-						</div>
+                        <div class="special-links">
+                            <ul>
+                                <li>
+                                    <a class="active" href="./owners-engineering.php">OWNER’S ENGINEERING </a>
+                                </li>
+                                <li>
+                                    <a href="./substation-engineering.php">SUBSTATION ENGINEERING</a>
+                                </li>
+                                <li>
+                                    <a href="./transmission-line.php">TRANSMISSION LINE </a>
+                                </li>
+                                <li>
+                                    <a href="./system-studies.php">SYSTEM STUDIES</a>
+                                </li>
+                                <li>
+                                    <a href="./insulation-coordination.php">INSULATION CO-ORDINATION STUDY </a>
+                                </li>
+                                <li>
+                                    <a href="./solar-and-wind.php">WIND & SOLAR POWER</a>
+                                </li>
+                                <li>
+                                    <a href="./gas-insulated.php">GAS INSULATED SUBSTATION </a>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
                     <div class="single-sidebar-widget">
                         <div class="sec-title">
@@ -120,7 +133,7 @@
                                         <li>Structural Design Of Latticed Towers, Poles And Frames</li>
                                         <li>Line Gantries</li>
                                         <li>Profiling Using Software With Integrated Terrain Modeling</li>
-                                        
+
                                         <li>
                                             Conductor Sizing and Selection
                                         </li>

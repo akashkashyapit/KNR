@@ -6,11 +6,22 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<link rel="shortcut icon" type="image/x-icon" href="assets/images/logo.png" alt="KNR Engineering Consulting Services">
-  
-	<title>Best  Engineering Consulting Services -  KNR Engineers (India) Pvt Ltd.</title>
+
+	<title>Best Engineering Consulting Services - KNR Engineers (India) Pvt Ltd.</title>
 	<meta name="description" content="Owners Engineering Ensure quality, timely and cost-effective completion of your projects" />
 	<meta name="keywords" content="epc project management, power plant project management, owner’s engineer, third party engineering, owner’s engineer scope of work, lenders engineers services">
-	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EE6B7Z7KFW"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'G-EE6B7Z7KFW');
+	</script>
 	<!-- START HEADER -->
 	<?php
 	include_once('header.php');

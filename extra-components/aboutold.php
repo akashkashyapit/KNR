@@ -7,6 +7,18 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Glojivoc - Multipurpose Business Consulting and Professional Services HTML5 Bootstrap4 Responsive Template
 	</title>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EE6B7Z7KFW"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'G-EE6B7Z7KFW');
+	</script>
 	<!-- HEADER -->
 	<?php
 	include_once('header.php');
@@ -315,6 +327,6 @@
 	<!-- Footer_Section_End -->
 
 
-</body>
+	</body>
 
 </html>

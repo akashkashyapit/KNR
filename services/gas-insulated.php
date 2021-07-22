@@ -10,6 +10,18 @@
 	<title>Best Substation Engineering Services in india - KNR Engineers (India) Pvt Ltd.</title>
 	<meta name="description" content="KNR Engineers provides a full range of GIS solutions from 60 to 800 kV for utilities and industries worldwide." />
 	<meta name="keywords" content="Gas-Insulated Solutions,GIS,GIL,SF6,g3,digital,SF6 alternative, siwtchgear,Lightning protection, Indoor-outdoor lighting, Design of foundation, Architectural drawings . ">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EE6B7Z7KFW"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'G-EE6B7Z7KFW');
+	</script>
 	<!-- START HEADER -->
 	<?php
 	include_once('header.php');
@@ -38,7 +50,7 @@
 			<div class="row">
 				<div class="col-lg-4 col-sx-12">
 					<div class="single-sidebar-widget">
-					<div class="special-links">
+						<div class="special-links">
 							<ul>
 								<li>
 									<a class="active" href="./owners-engineering.php">OWNER’S ENGINEERING </a>
@@ -97,7 +109,7 @@
 								KNR offers an efficient approach to EHV substation basic design and detail engineering services which include planning for constructability, contracting and equipment procurement for successful completion of a project.KNR offers an efficient approach to EHV substation basic design and detail engineering services which include planning for constructability, contracting and equipment procurement for successful completion of a project.
 							</p>
 							<p>
-							KNR has a group of post graduate professionals from electrical and civil, structural discipline equipped with software tools such as CYMGRD, STAAD, CDEGS and host of user developed software for carrying out complete range of services for both electrical and civil & structural work in substations.
+								KNR has a group of post graduate professionals from electrical and civil, structural discipline equipped with software tools such as CYMGRD, STAAD, CDEGS and host of user developed software for carrying out complete range of services for both electrical and civil & structural work in substations.
 							</p>
 							<p>KNR has completed a total of 34 AIS substations and 7 GIS substations since the inception in 2003.</p>
 							<p>Clientele includes all power industry giants and big corporate groups</p>

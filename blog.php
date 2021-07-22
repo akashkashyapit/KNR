@@ -10,6 +10,19 @@
   <title>Our blogs and E-books Engineering and Consultaning - KNR Engineers (India) Pvt Ltd.</title>
   <meta name="description" content="Download our free ebook today and learn how Engineering and consultanting specific tools can help you increase site visibility, connect your teams and deliver successful projects sooner!" />
   <meta name="keywords" content="Content, Ebooks, Study Materials">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-EE6B7Z7KFW"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-EE6B7Z7KFW');
+  </script>
   <!-- HEADER -->
   <?php
   include_once('header.php');

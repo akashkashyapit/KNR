@@ -8,6 +8,18 @@
   <title>
     Insulation Coordination in High Voltage– Electric power supply
   </title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-EE6B7Z7KFW"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-EE6B7Z7KFW');
+  </script>
   <!-- START HEADER -->
   <?php
   include_once('header.php');
@@ -315,8 +327,8 @@
           ?>
           <!-- RECENT-BLOG END -->
 
-           <!-- POPULAR-TAGS START -->
-           <?php
+          <!-- POPULAR-TAGS START -->
+          <?php
           include_once('popular-tags.php');
 
           ?>

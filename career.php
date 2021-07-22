@@ -6,15 +6,28 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo.png" alt="KNR Engineering Consulting Services">
-  
-  <title>We are hiring -  KNR Engineers (India) Pvt Ltd.</title>
+
+  <title>We are hiring - KNR Engineers (India) Pvt Ltd.</title>
   <meta name="description" content="KNR Is leading engineering and consultancy service providers in India.">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-EE6B7Z7KFW"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-EE6B7Z7KFW');
+  </script>
   <meta name="keywords" content="KNR Consulting Engineers, EHV Transmission Consultants, Detailed Design, Engineering Services">
- <!-- HEADER -->
- <?php
-	include_once('header.php');
-	?>
-	<!-- END HEADER -->
+  <!-- HEADER -->
+  <?php
+  include_once('header.php');
+  ?>
+  <!-- END HEADER -->
 
   <!-- Intro Section -->
   <section class="
@@ -55,7 +68,7 @@
               <!-- <li>
                 <a href="partnerships.html">Partnerships</a>
               </li> -->
-              
+
             </ul>
           </div>
           <!-- <div class="company-brochure mt-30">
@@ -101,7 +114,7 @@
                 <div class="card-header" role="tab" id="headingOne">
                   <h5 class="mb-0 panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                      
+
                       <i class="fa fa-plus collape-plus"></i>
                     </a>
                   </h5>
@@ -117,7 +130,7 @@
                 <div class="card-header" role="tab" id="headingTwo">
                   <h5 class="mb-0 panel-title">
                     <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                      
+
                       <i class="fa fa-plus collape-plus"></i>
                     </a>
                   </h5>
@@ -132,7 +145,7 @@
                 <div class="card-header" role="tab" id="headingThree">
                   <h5 class="mb-0 panel-title">
                     <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                      
+
                       <i class="fa fa-plus collape-plus"></i>
                     </a>
                   </h5>
@@ -147,7 +160,7 @@
                 <div class="card-header" role="tab" id="headingThree">
                   <h5 class="mb-0 panel-title">
                     <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                    
+
                       <i class="fa fa-plus collape-plus"></i>
                     </a>
                   </h5>
@@ -172,6 +185,6 @@
 
   ?>
   <!-- Footer_Section_End -->
-</body>
+  </body>
 
 </html>

@@ -132,6 +132,18 @@
 	<script type="text/javascript" src="../assets/extensions/revolution.extension.parallax.min.js"></script>
 	<script type="text/javascript" src="../assets/js/jquery.revolution.js"></script>
 	<!-- custom Js -->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EE6B7Z7KFW"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'G-EE6B7Z7KFW');
+	</script>
 	<script src="../assets/js/custom.js" type="text/javascript"></script>
 	<script type="text/javascript">
 		var Tawk_API = Tawk_API || {},

@@ -11,6 +11,19 @@
 	<meta name="description" content="Our clients and customers privacy is our responsibility we take care of secure online policies for our users." />
 	<meta name="keywords" content="Engineering Consultants, Engineering consultancy services ">
 	<!-- HEADER -->
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EE6B7Z7KFW"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'G-EE6B7Z7KFW');
+	</script>
 	<?php
 	include_once('header.php');
 	?>

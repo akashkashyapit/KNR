@@ -6,7 +6,18 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo.png" alt="KNR Engineering Consulting Services">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-EE6B7Z7KFW"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
 
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-EE6B7Z7KFW');
+  </script>
   <title>Contact Us Today - KNR Engineers (India) Pvt Ltd.</title>
   <meta name="description" content="KNR Engineers is a best-in-class integrated engineering consultancy solutions provider." />
   <meta name="keywords" content="To assist you better, contact Us by filling out your information in the form.">
@@ -54,7 +65,7 @@
                 Chennai – 600035, India
               </p>
             </div>
-            <div class="col-md-4 col-lg-4 pb-xs-30"> <i class="ion-ios-email icon-circle pos-s"></i><a href="mailto:ravichandran@knrengineers.com" class="mt-15 i-block">ravichandran@knrengineers.com <br> info@knrengineers.com </a> </div>
+            <div class="col-md-4 col-lg-4 pb-xs-30"> <i class="ion-ios-email icon-circle pos-s"></i><a href="mailto:info@knrengineers.com" class="mt-15 i-block">info@knrengineers.com <br> info@knrengineers.com </a> </div>
           </div>
         </div>
       </div>
